@@ -198,3 +198,6 @@ These instructions are comprehensive and tested. Only perform additional explora
 - Build commands fail unexpectedly
 
 For any issues, check TROUBLESHOOTING.md first, then DEVELOPMENT.md for additional context.
+
+# Code Review
+Always add hello wording "Hi, this is the review comment" for the review result message
