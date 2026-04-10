@@ -3,8 +3,20 @@
 <img alt="Demo of GitHub Copilot for Xcode" src="./Docs/demo.gif" width="800" />
 
 [GitHub Copilot](https://github.com/features/copilot) is an AI pair programmer
-tool that helps you write code faster and smarter. Copilot for Xcode is an Xcode
-extension that provides inline coding suggestions as you type.
+tool that helps you write code faster and smarter. GitHub Copilot for Xcode is
+an Xcode extension that provides inline coding suggestions as you type.
+
+## Table of Contents
+
+- [Beta Preview Policy](#beta-preview-policy)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Privacy](#privacy)
+- [Support](#support)
+- [Acknowledgements](#acknowledgements)
 
 ## Beta Preview Policy
 
@@ -12,6 +24,12 @@ Use of the GitHub Copilot Xcode Extension is subject to [GitHub's Pre-Release Te
 
 > Beta Previews may not be supported or may change at any time. You may receive confidential information through those programs that must remain confidential while the program is private. We'd love your feedback to make our Beta Previews better.
 
+## Features
+
+- **Inline code suggestions** – Get real-time code completions as you type in Xcode.
+- **Full-suggestion preview** – Hold `option` to preview the full suggestion before accepting.
+- **Easy sign-in** – Authenticate with your GitHub account in just a few clicks.
+- **Automatic updates** – The app checks for and installs updates automatically.
 
 ## Requirements
 
@@ -62,7 +80,7 @@ Use of the GitHub Copilot Xcode Extension is subject to [GitHub's Pre-Release Te
    </p>
 
 1. After granting the extension permission, please restart Xcode to ensure the
-   `Github Copilot` menu is available and not disabled under the Xcode `Editor`
+   `GitHub Copilot` menu is available and not disabled under the Xcode `Editor`
    menu.
     <br>
     <p align="center">
@@ -85,7 +103,7 @@ Use of the GitHub Copilot Xcode Extension is subject to [GitHub's Pre-Release Te
 
    New versions can also be installed from `dmg` files downloaded from the
    releases page. When installing a new version via `dmg`, the application must
-   be run manually the first time to accept the downloaded from the internet
+   be run manually the first time to accept the downloaded-from-the-internet
    warning.
 
 1. To avoid confusion, we recommend disabling `Predictive code completion` under
@@ -98,6 +116,12 @@ Use of the GitHub Copilot Xcode Extension is subject to [GitHub's Pre-Release Te
      <img alt="Screenshot of welcome screen" src="./Docs/welcome.png" width="672" />
    </p>
 
+## Contributing
+
+Contributions are welcome! Please read [DEVELOPMENT.md](./DEVELOPMENT.md) to
+get started with building and testing the project locally. By participating in
+this project you agree to abide by the [Code of Conduct](./CODE_OF_CONDUCT.md).
+
 ## License
 
 This project is licensed under the terms of the MIT open source license. Please
@@ -108,14 +132,16 @@ refer to [LICENSE.txt](./LICENSE.txt) for the full terms.
 We follow responsible practices in accordance with our
 [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-To get the latest security fixes, please use the latest version of the GitHub
-Copilot for Xcode.
+To get the latest security fixes, please use the latest version of GitHub
+Copilot for Xcode. To report a security vulnerability, please review our
+[Security Policy](./SECURITY.md).
 
 ## Support
 
-We’d love to get your help in making GitHub Copilot better!  If you have
-feedback or encounter any problems, please reach out on our [Feedback
-forum](https://github.com/orgs/community/discussions/categories/copilot).
+We'd love to get your help in making GitHub Copilot better! If you have
+feedback or encounter any problems, please reach out on our
+[Feedback forum](https://github.com/orgs/community/discussions/categories/copilot)
+or review [SUPPORT.md](./SUPPORT.md) for more information.
 
 ## Acknowledgements
 
